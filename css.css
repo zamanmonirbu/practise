@@ -1,0 +1,199 @@
+/*
+.border{
+    border: 10px solid red;
+}
+p .border{
+    margin: 100px;
+}
+.box-sizing
+   {
+  width: 300px;
+       height: 100px;
+  padding: 25px;
+  box-sizing: border-box;
+  background-color: lightblue;
+overflow: hidden;
+       
+}
+.box-sizing{
+    direction: ltr;
+    word-spacing: 10px;
+    line-height: 30px;
+    unicode-bidi:bidi-override;
+    white-space:pre-line;
+    text-indent: 50px;
+    
+}
+.box-sizing:hover{
+    overflow: visible;
+}
+p{
+    font-weight: bolder;
+    font-size: 10vw;
+    
+}
+.material-icons{
+    font-size: 50px;
+    text-align: center;
+}
+ol{
+    list-style-type:none;
+    color: red;
+    background-color: aqua;
+}
+ol li{
+    background-color:black;
+    width: 200px;
+        float: left;
+        padding: 30px;
+    margin: 10px;
+
+
+}
+table{
+    
+}
+.shop{
+  border-collapse: collapse;
+}
+
+.shop td, .shop th {
+  border: 5px solid #ddd;
+  padding: 8px;
+}
+.shop th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+*/
+
+
+/*
+li{
+    display: inline-block;
+    padding: 10px;
+}
+li{
+    display: none;
+    display:block
+}
+
+*/
+
+
+/*
+P{
+    width: 800px;
+    border: 1px solid;
+}
+b{
+    max-width: 800px;
+    border: 1px solid;
+    position: absolute;
+    left: 40px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+
+}
+
+div{
+    height: 10000px;
+}
+
+strike{
+  position: sticky;
+  top:  0;
+
+}
+*/
+
+
+/*
+img{
+    width: 100%;
+    border: 2px solid;
+    height: 900px
+}
+
+.lt{
+    position: fixed;
+    top: 30px;
+}
+.rt{
+        position: fixed;
+        top: 30px;
+    right: 0;
+    
+}
+.rb{
+        position: fixed;
+        bottom: 0;
+    right: 0;
+    
+}
+.c{
+        position: fixed;
+        top: 50%;
+    right: 50%;
+    
+}
+.lb{
+        position: fixed;
+        bottom: 0;
+    
+}
+
+
+ .imm{
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+.div1 {
+  float: left;
+  padding: 10px;
+  border: 3px solid #73AD21;
+}
+
+.div2 {
+  padding: 10px;
+  border: 3px solid red;
+}
+
+.div3 {
+  float: left;
+  padding: 10px;  
+  border: 3px solid #73AD21;
+}
+
+.div4 {
+  padding: 10px;
+  border: 3px solid red;
+  clear: left;
+}
+*/
+
+nav {
+    height: 50px;
+    background-color: lightgray;
+    line-height: 30px;
+}
+
+nav li {
+    list-style: none;
+    float: left;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav li:hover {
+    background-color: darkgray;
+}
